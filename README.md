@@ -1,2 +1,3 @@
 # angularfire2
-angularfirefirebase
+angularfire
+firebase
