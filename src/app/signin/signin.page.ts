@@ -10,7 +10,7 @@ import { AngularFireAuth} from '@angular/fire/auth';
   styleUrls: ['./signin.page.scss'],
 })
 export class SigninPage implements OnInit {
-  signInFrom:FormGroup;
+  signInForm:FormGroup;
   constructor(
     private authService:AuthService,
     private formBuilder:FormBuilder,
