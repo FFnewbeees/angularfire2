@@ -6,12 +6,12 @@ export const environment = {
   production: false,
   firebase: {
     // Initialize Firebase
-      apiKey: "AIzaSyBkaN4wv2nrcW5Waj1CHpeZtEs7OLWvtoY",
-      authDomain: "ionic-to-do-list.firebaseapp.com",
-      databaseURL: "https://ionic-to-do-list.firebaseio.com",
-      projectId: "ionic-to-do-list",
-      storageBucket: "ionic-to-do-list.appspot.com",
-      messagingSenderId: "531391321943"
+        apiKey: "AIzaSyBkaN4wv2nrcW5Waj1CHpeZtEs7OLWvtoY",
+        authDomain: "ionic-to-do-list.firebaseapp.com",
+        databaseURL: "https://ionic-to-do-list.firebaseio.com",
+        projectId: "ionic-to-do-list",
+        storageBucket: "ionic-to-do-list.appspot.com",
+        messagingSenderId: "531391321943"
     }
 };
 
